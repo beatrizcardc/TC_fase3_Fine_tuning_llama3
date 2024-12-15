@@ -77,6 +77,7 @@
 - 📝 **Dados de Teste**: Carregar os dados de teste e o **Ground Truth**.
 - 📥 **Modelos**: Carregar os modelos **pré-treinado** e **fine-tuned**.
 - 🗨️ **Gerar Respostas**: Produzir respostas para os dados de teste.
+- 🔄 Retreinamento com Ajustes: Modificar hiperparâmetros e formatar o dataset com title e content.
 - 📈 **Métricas de Desempenho**:  
   - **BLEU**  
   - **ROUGE**
