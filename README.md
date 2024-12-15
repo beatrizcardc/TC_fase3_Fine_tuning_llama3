@@ -56,8 +56,8 @@
 ### ⚙️ **Configuração do Treinamento**
 - 📊 **Hiperparâmetros**:  
   - **Epochs**: 3 a 5.  
-  - **Batch Size**: 8 (ajustado para evitar OOM).  
-  - **max_length**: 525 tokens (ou conforme análise).  
+  - **Batch Size**: 4 - 2 (ajustado para evitar OOM).  
+  - **max_length**: 1024 tokens (ou conforme análise).  
   - **Checkpoints**: Salvar checkpoints a cada `save_steps`.  
 - 📊 **Monitoramento**:  
   Usar **WandB** e **TensorBoard** para acompanhar métricas como:  
