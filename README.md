@@ -85,6 +85,9 @@
   - **ROUGE**
 ![Análise das Respostas v4](https://raw.githubusercontent.com/beatrizcardc/TC_fase3_Fine_tuning_llama3/main/analise_respostas_v4.png)
 
+- 🔍 **Após Melhorias da Geração**
+![Análise das Respostas v4](https://raw.githubusercontent.com/beatrizcardc/TC_fase3_Fine_tuning_llama3/main/analise2_respostas_v4.png)
+ - Como projeto inicial de Fine Tuning e ao reduzir os registros, por limitações técnicas, sabemos que não teremos respostas tão robustas. Mas como MVP atingimos o resultado satisfatório para alguns prompts.
 ---
 
 ### 📦 **Entrega do Projeto**
