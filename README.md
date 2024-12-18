@@ -80,9 +80,10 @@
 - 📥 **Modelos**: Carregar os modelos **pré-treinado** e **fine-tuned**.
 - 🗨️ **Gerar Respostas**: Produzir respostas para os dados de teste.
 - 🔄 **Retreinamento com Ajustes**: Modificar hiperparâmetros e formatar o dataset com title e content.
-- 📈 **Métricas de Desempenho**:  
+- 📈 **Métricas de Desempenho**:  (somente referÊncia)
   - **BLEU**  
   - **ROUGE**
+![Análise das Respostas v4](https://raw.githubusercontent.com/beatrizcardc/TC_fase3_Fine_tuning_llama3/main/analise_respostas_v4.png)
 
 ---
 
